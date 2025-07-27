@@ -17,4 +17,4 @@ This project provides a secure and modern implementation of **ERC-1155**, allowi
 ## 🚀 Deploy
 
 ```bash
-npm run deploy:erc1155 sepolia
+npm run deploy:erc1155
